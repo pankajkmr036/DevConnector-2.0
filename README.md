@@ -1,8 +1,12 @@
 # DevConnector 2.0
 
 > Social network for developers
-
-This is a MERN stack application. It is a small social network app that includes authentication, profiles and forum posts.
+An online portal for developers around the world to connect with each other and share their experiences and knowledge. Complete profile of a developer is displayed to anyone using the app.
+• The app has an extensive backend API with Node.js and Express.
+• Private routes are protected using JSON Web Tokens(JWT)
+• A front end React App integrated to work with the API.
+• The app state management is done in an elegant way using Redux.
+• Application is successfully deployed on Heroku.com
 
 ## Quick Start
 
