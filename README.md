@@ -6,7 +6,8 @@ An online portal for developers around the world to connect with each other and 
 • Private routes are protected using JSON Web Tokens(JWT)
 • A front end React App integrated to work with the API.
 • The app state management is done in an elegant way using Redux.
-• Application is successfully deployed on Heroku.com
+• Application is successfully deployed on Heroku.com.
+Followed es6 syntax.
 
 ## Quick Start
 
